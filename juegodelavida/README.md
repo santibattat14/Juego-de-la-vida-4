@@ -23,7 +23,7 @@ sentencia:
 ```console
 make html
 ```
-## Cómo se ejecuta el programa 
+## Ejecución del programa 
 ```console
 make jugar
 ```
